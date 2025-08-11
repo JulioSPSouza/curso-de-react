@@ -32,6 +32,8 @@
   width: 100%;
   text-align: left;
   text-decoration: line-through;
+  display: flex;
+  align-items: center;
 }
 li {
   display: flex;
